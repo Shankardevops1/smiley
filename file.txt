@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is main file
+=======
+this is feature file
+>>>>>>> 3d64575e49e31cd31933b676741e892c3dd53b4a
